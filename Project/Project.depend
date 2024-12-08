@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1728318499 source:e:\project\main.cpp
+	<bits/stdc++.h>
+	<fstream>
+	<conio.h>
+	"user.h"
+	"plant_info.h"
+
+1728306082 e:\project\user.h
+	<bits/stdc++.h>
+	<fstream>
+	<conio.h>
+
+1728235042 e:\project\lists.h
+	<bits/stdc++.h>
+
+1728318595 e:\project\plant_info.h
+	<bits/stdc++.h>
+	"lists.h"
+
+1733210002 source:e:\project (1)\project\main.cpp
+	<bits/stdc++.h>
+	<fstream>
+	<conio.h>
+	"user.h"
+	"plant_info.h"
+
+1732034851 e:\project (1)\project\user.h
+	<bits/stdc++.h>
+	<fstream>
+	<conio.h>
+
+1733210384 e:\project (1)\project\plant_info.h
+	<bits/stdc++.h>
+	"lists.h"
+
+1733209213 e:\project (1)\project\lists.h
+	<bits/stdc++.h>
+
